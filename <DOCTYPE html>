@@ -9,6 +9,32 @@
  </head>
    
  <body id="main">
-   <h1 id="title">Jesse Lauriston Livermore</h1>
+   <h1 id="title">Jesse Lauriston Livermore: The original trading legend</h1>
+
    <div id="img-div">
-     <img id="image" src="https://www.tradingreviewers.com/wp-content/uploads/2019/12/trader-jesse-livermore.jpg"
+     <img id="image" width="100%" height="auto" 
+     src="https://www.tradingreviewers.com/wp-content/uploads/2019/12/trader-jesse-livermore.jpg" 
+     alt="Picture of Jesse Livermore">
+
+     <figcaption id="img-caption">
+     A suave looking Jesse (right), enjoys a cigarette, whilst with his wife Harriet (left)
+     </figcaption>
+   </div>
+
+   <h2 id="subheading">Timeline of Jesse Livermore's life"</h2>
+
+   <p id="tribute-info">
+     <ul>
+       <li>Jesse Lauriston Livermore was born in Acton, Massachusetts, on the 26th July, 1877.
+       He had a poverty striken childhood, in which he grew up on the family farm, and attended
+       school until the age of 14, when his father made him quit.</li>
+       <li>He ran away from home and got a job at a stock brockerage firm in Boston, called Paine Webber,
+       where he made $5 a week.</li>
+       <li>At the tender age of 16, he found success in trading stocks by reading the ticker tape.
+       He was able to earn a whopping $10,000 dollars, which in the late 1800's, was indeed, a fortune.</li>
+       <li>He unfortunately lost this fortune when he tried to play the Wall Street market, a few years
+       later. However, he then moved to St. Louis and was able to build his fortune back in the sketchy bucket
+       shops.</li>
+       <li>
+
+       </ul>
