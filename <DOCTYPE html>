@@ -6,6 +6,13 @@
    <meta name="author" content="Peter Jonathan Rawlings">
    <meta name="viewport" content="device-width, initial-scale=1.0">
    <title>Tribute Page: Jesse Lauriston Livermore</title>
+   <style>
+     #image {
+       max-width: 100%;
+       height: auto;
+       display: block;
+       }
+    </style>
  </head>
    
  <body id="main">
@@ -70,3 +77,8 @@
       This is the only way out. I am unworthy of your love. I am a failure. I am truly sorry,
       but this is the only way out for me. Love Laurie."</i>
     </p>
+    <p id="reference">For a more in depth look at Jesse Livermore's life, checkout the <a id="tribute-link" target="_blank"
+    href="https://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore">Wikipedia page</a>
+    </p>
+ </body>
+</html>
