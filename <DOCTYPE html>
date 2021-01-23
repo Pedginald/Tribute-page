@@ -6,11 +6,47 @@
    <meta name="author" content="Peter Jonathan Rawlings">
    <meta name="viewport" content="device-width, initial-scale=1.0">
    <title>Tribute Page: Jesse Lauriston Livermore</title>
+
    <style>
      #image {
        max-width: 100%;
        height: auto;
        display: block;
+       margin-left: auto;
+       margin-right: auto;
+       }
+     figcaption {
+       text-align: center;
+       }
+     h1{
+       text-align: center;
+       padding-bottom: 20px;
+       padding-top: 20px;
+       }
+     h2 {
+       text-align: center;
+       padding-top: 20px;
+       }
+     #suicide-note {
+       text-align: center;
+       padding-top: 30px;
+       padding-bottom: 50px;
+       }
+     ul {
+       max-width: 80%;
+       margin-left: auto;
+       margin-right: auto;
+     }
+     li {
+       padding-top: 10px;
+       padding-bottom: 10px;
+       }
+     #tribute-info {
+       text-align: center;
+       }
+     #img-div {
+       background-color: #d3d3d3;
+       padding-top: 20px;
        }
     </style>
  </head>
@@ -19,7 +55,7 @@
    <h1 id="title">Jesse Lauriston Livermore: The original trading legend</h1>
 
    <div id="img-div">
-     <img id="image" width="100%" height="auto" 
+     <img id="image" width="80%" height="auto" 
      src="https://www.tradingreviewers.com/wp-content/uploads/2019/12/trader-jesse-livermore.jpg" 
      alt="Picture of Jesse Livermore">
 
@@ -30,7 +66,7 @@
 
    <h2 id="subheading">Events of Jesse Livermore's life</h2>
 
-   <p id="tribute-info">
+   <p id="tribute-info">From his childhood, until the day he died, Jesse Livermore was a troubled legend.
      <ul>
        <li>Jesse Lauriston Livermore was born in Acton, Massachusetts, on the 26th July, 1877.
        He had a poverty striken childhood, in which he grew up on the family farm, and attended
@@ -38,7 +74,7 @@
        <li>He ran away from home and got a job at a stock brockerage firm in Boston, called Paine Webber,
        where he made $5 a week.</li>
        <li>At the tender age of 16, he found success in trading stocks by reading the ticker tape.
-       He was able to earn a whopping $10,000 dollars, which in the late 1800's, was indeed, a fortune.</li>
+       He was able to earn a whopping $10,000, which in the late 1800's, was indeed, a fortune.</li>
        <li>He unfortunately lost this fortune when he tried to play the Wall Street market, a few years
        later. However, he then moved to St. Louis and was able to build his fortune back in the sketchy bucket
        shops. This fluctuation from rags to riches, and back again, would eventually pave the perpetual cycle
@@ -49,15 +85,15 @@
        $500,000...... A 5000% gain! The next 7 years saw Livermore turn his fortune into $3 million.</li>
        <li>By 1918, he had built up enough buying power to corner the cotton market, at which point he was
        invited to the White House by President Woodrow Wilson, and asked to sell it back at break even.
-       After obliging, and being asked why he did such a thing, Livermore replied, "To see if I could, Mr. President."
-       </li>At 40 years old, Livermore married his 2nd wife, Dorothy Fox Wendt, in 1918. They had 2 children, Jesse
+       After obliging, and being asked why he did such a thing, Livermore replied, "To see if I could, Mr. President."</li>
+       <li>At 40 years old, Livermore married his 2nd wife, Dorothy Fox Wendt, in 1918. They had 2 children, Jesse
        Livermore II, born in 1919, and Paul Livermore, born in 1922.</li>
        <li>During the Wall Street Crash in 1929, by taking a bearish market approach, Livermore's net worth reached $100 
        million.... That's the equivqlent of $14 billion by today's standard. This lead to people believing that
        Livermore himself was responsible for the crash. Death threats ensued, and he had to hire bodyguards.</li>
        <li>By 1932, Dorothy and Livermore were divorced, she retained custody of both children, and recieved a $10 million
        settlement. Their $3.5 million house was sold for $222,000, and torn down.</li>
-       <li>In 1933, 56 year old Livermore married a singer named Harriet Metz. They met in Vienaa in 1931, where Harriet
+       <li>In 1933, 56 year old Livermore married a singer named Harriet Metz. They met in Vienna in 1931, where Harriet
        was performing, and Livermore was on holiday.
        <li>Events leading up to this point had sent him on a spiral of depression, eventually exacerbated by the non-fatal
        shooting of his son, by his wife, in 1935.</li>
@@ -65,8 +101,8 @@
        rules which affected his trading system. As a result, he opened a new business, and turned his hand to financial
        advice.</li>
        <li>Through the encouragement of his son, Jesse Jr., Livermore published a book named "How to trade in Stocks".
-       Interest in the stock market was at an all time low, partly due to WWII, and as a result, His book did not
-       do well</li>
+       Interest in the stock market was at an all time low, partly due to WWII, and as a result, his book did not
+       do well.</li>
        <li>On November 28, 1940, at the age of 63, Livermore tragically ended his spiral of depression
        by shooting himself in the head. Police found his body in the cloakroom of the Sherry-Netherland hotel in
        Manhattan, along with a suicide note to his wife Harriet:</li>
@@ -78,7 +114,7 @@
       but this is the only way out for me.<br> Love Laurie."</i>
     </p>
     <p id="reference">For a more in depth look at Jesse Livermore's life, checkout the <a id="tribute-link" target="_blank"
-    href="https://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore">Wikipedia page</a>
+    href="https://en.wikipedia.org/wiki/Jesse_Lauriston_Livermore">Wikipedia page</a>.
     </p>
  </body>
 </html>
